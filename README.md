@@ -1,4 +1,4 @@
-![resim](https://github.com/xleyzor/Huddle-landing-page-with-a-single-introductory-section/assets/122406455/a0852e06-1d14-46e6-9e52-a7e9aeb0a27e)
+![Ekran Görüntüsü 2023-06-29 12 37 09](https://github.com/xleyzor/Huddle-landing-page-with-a-single-introductory-section/assets/122406455/062e3976-ac3e-4566-b77b-646e61daab1d)
 
 <h1>Huddle landing page with a single introductory section</h1>
 
