@@ -13,6 +13,6 @@
     Solution URL: <a href="#">Click Here!</a>
     </li>
     <li>
-    Live site URL: <a href="#">Click Here!</a>
+    Live site URL: <a href="https://huddle-landing-page-with-a-single-introductory-section-livid.vercel.app/">Click Here!</a>
     </li>
 </ul>
