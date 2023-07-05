@@ -13,6 +13,6 @@
     Solution URL: <a href="https://www.frontendmentor.io/solutions/huddle-landing-page-with-a-single-introductory-section-11gyDxfPrI">Click Here!</a>
     </li>
     <li>
-    Live site URL: <a href="https://huddle-landing-page-with-a-single-introductory-section-livid.vercel.app/">Click Here!</a>
+    Live site URL: <a href="https://huddle-landing-page-with-a-single-introductory-section-gules.vercel.app/">Click Here!</a>
     </li>
 </ul>
